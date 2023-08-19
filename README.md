@@ -18,4 +18,5 @@ Welcome to the Movie Collection Analysis Dashboard repository! This interactive 
 
 Enjoy exploring the fascinating world of movie collections through data-driven analysis!
 
+<img width="248" alt="Screenshot_20230818_094947" src="https://github.com/rahulbytes/Power-BI-Dashboard/assets/142666454/ff5fdbc5-2594-4e66-bb17-776c014c28d7">
 
